@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# **{{ repo-name }}**
+# **Sun**
 
-_**{{ repo-description }}**_
+_**Efecto visual de sol con emisión brillante y partículas energéticas. Ideal para escenas espaciales o entornos místicos.**_
 
 
 </header>
