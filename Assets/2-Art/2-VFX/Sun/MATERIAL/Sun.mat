@@ -51,14 +51,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distortion: 10
-    - _NoisePower: 3.95
+    - _Distortion: 5
+    - _NoisePower: 2
     - _NoiseScale: 100
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _TimeScale: 0.1
+    - _TimeScale: 0.05
     - _Twirl: 10
     m_Colors:
-    - _BaseColor: {r: 6.0628657, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 2, g: 0.87590194, b: 0.4433962, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
