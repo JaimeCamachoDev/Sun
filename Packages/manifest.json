@@ -1,9 +1,7 @@
 {
   "dependencies": {
-    "com.unity.recorder": "5.1.2",
     "com.unity.render-pipelines.universal": "17.0.4",
-    "com.unity.visualeffectgraph": "17.0.4",
-    "jp.keijiro.klutter-tools": "2.1.0"
+    "com.unity.visualeffectgraph": "17.0.4"
   },
   "scopedRegistries": [
     {
@@ -11,6 +9,13 @@
       "url": "https://registry.npmjs.com",
       "scopes": [
         "jp.keijiro"
+      ]
+    },
+    {
+      "name": "JaimeCamachoDev",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "com.jaimecamacho"
       ]
     }
   ]
