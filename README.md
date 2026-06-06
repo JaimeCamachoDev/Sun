@@ -1,7 +1,5 @@
 <header>
 
-![Movie\_002](https://github.com/user-attachments/assets/0cbffd28-4fe1-46d3-aa19-53dec8a90579)
-
 # **Sun**
 
 ***Efecto visual de sol con emisión brillante y partículas energéticas. Ideal para escenas espaciales o entornos místicos.***
@@ -10,7 +8,7 @@
 
 ## Preview
 
-![Preview](./preview.gif)
+![Movie\_002](https://github.com/user-attachments/assets/0cbffd28-4fe1-46d3-aa19-53dec8a90579)
 
 ## Requirements
 
