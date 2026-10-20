@@ -20,3 +20,10 @@
 Import the effect into your Unity project and place the prefab in the scene.
 
 Adjust the scale, emission intensity, particle settings, and color depending on the visual style of the scene.
+
+## Contenido
+
+* **VFX Graph:** `Sun`
+* **Shader Graph:** `Sun`
+* **Prefabs:** `Sphere`
+* **Escenas:** `Assets/3-Scenes/Main.unity`
